@@ -1,16 +1,13 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChanchalYadav12/ChanchalYadav12/main/git.gif" width="100%" />
+</div>
 
-<!--
-**ChanchalYadav12/ChanchalYadav12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey, I'm Chanchal Yadav 👋</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  Software Engineer • Systems • Open Source
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=A855F7&center=true&vCenter=true&width=435&lines=Building+cool+stuff;Systems+Programming;Backend+Engineering;Code+%2B+Coffee+%2B+Chaos" />
+</p>
