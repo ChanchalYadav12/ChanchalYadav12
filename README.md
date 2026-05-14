@@ -9,7 +9,7 @@
 <h1 align="center">Chanchal Yadav 👋</h1>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=heyaa+digital+souls+⚡;welcome+to+my+dev+cave+🛠" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=heyaa+digital+souls;welcome+to+my+dev+cave+%F0%9F%9B%A0" />
 </h2>
 
 <p align="center">
