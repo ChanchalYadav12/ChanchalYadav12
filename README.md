@@ -39,11 +39,11 @@
 </p>
 
 <p>
-  <sub>C++</sub> •
-  <sub>Python</sub> •
-  <sub>C</sub> •
-  <sub>JavaScript</sub> •
-  <sub>Java</sub>
+  <code>C++</code>
+  <code>Python</code>
+  <code>C</code>
+  <code>JavaScript</code>
+  <code>Java</code>
 </p>
 
 ### ⚙ Backend & Web
