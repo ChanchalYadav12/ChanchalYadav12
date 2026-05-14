@@ -2,19 +2,15 @@
   <img src="https://raw.githubusercontent.com/ChanchalYadav12/ChanchalYadav12/main/git.gif" width="100%" />
 </div>
 
-<h1 align="center">Chanchal Yadav 👋</h1>
+<h1 align="center">Chanchal Yadav👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ChanchalYadav12&label=visitors&color=0e75b6&style=flat" />
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=heyaa+digital+souls+⚡;welcome+to+my+dev+cave+🛠;systems+•+backend+•+open+source;code+%2B+coffee+%2B+chaos" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=heyaa+digital+souls+⚡;welcome+to+my+dev+cave+🛠" />
 </h2>
-
----
-
-# 💻 inside the dev cave
 
 <p align="center">
   <a href="https://linkedin.com/in/chanchal-s-yadav">
@@ -32,7 +28,7 @@
 
 ---
 
-# 🚀 What I Tinker With
+# 💻 inside the dev cave
 
 ### 👨‍💻 Languages
 
@@ -93,5 +89,3 @@
   <code>VS Code</code>
   <code>Google Cloud</code>
 </p>
-
----
