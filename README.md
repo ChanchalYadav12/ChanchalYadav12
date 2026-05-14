@@ -32,59 +32,74 @@
 
 <div align="center">
 
-### 👨‍💻 Languages
+### 👩‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=cpp,python,c,js,java&theme=dark" /><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,java&perline=5&theme=dark" />
-</p>
-
-<p>
+<div>
   <code>C++</code>
   <code>Python</code>
   <code>C</code>
   <code>JavaScript</code>
   <code>Java</code>
-</p>
+</div>
 
-### ⚙ Backend & Web
+### ⚙️ Backend & Web  
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb,html,css&theme=dark" /><br>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb,html,css&perline=6&theme=dark" />
-</p>
+<div>
+  <code>Flask</code>
+  <code>React</code>
+  <code>Node.js</code>
+  <code>MongoDB</code>
+  <code>HTML</code>
+  <code>CSS</code>
+</div>
 
-<p>
-  <sub>Flask</sub> •
-  <sub>React</sub> •
-  <sub>Node.js</sub> •
-  <sub>MongoDB</sub> •
-  <sub>HTML</sub> •
-  <sub>CSS</sub>
-</p>
+### 🤖 ML & Systems  
+<img src="https://skillicons.dev/icons?i=pytorch,docker,linux&theme=dark" /><br>
 
-### 🤖 ML & Systems
+<div>
+  <code>PyTorch</code>
+  <code>Docker</code>
+  <code>Linux</code>
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,docker,linux&perline=3&theme=dark" />
-</p>
+### 🛠️ Dev Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark" /><br>
 
-<p>
-  <sub>PyTorch</sub> •
-  <sub>Docker</sub> •
-  <sub>Linux</sub>
-</p>
-
-### 🔧 Dev Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&perline=4&theme=dark" />
-</p>
-
-<p>
-  <sub>Git</sub> •
-  <sub>GitHub</sub> •
-  <sub>VS Code</sub> •
-  <sub>Google Cloud</sub>
-</p>
+<div>
+  <code>Git</code>
+  <code>GitHub</code>
+  <code>VS Code</code>
+  <code>Google Cloud</code>
+</div>
 
 </div>
-```
+
+## 📈 commit dimensions
+
+- ⚡ Scalable Backend Systems  
+- 🧠 System Design & Distributed Computing  
+- 🚀 Performance Optimization  
+- 🛠️ Developer Tools & Open Source  
+- 🤖 AI, ML & Computer Vision  
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=ChanchalYadav12&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanchalYadav12&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=38BDF8&point=FFFFFF" width="90%" />
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,100:A855F7&height=140&section=footer"/>
+</div>
