@@ -5,19 +5,22 @@
 <h1 align="center">Hi, I'm Chanchal Yadav 👋</h1>
 
 <p align="center">
-
+  
 ```bash
 > Software Engineer @ IIT Jodhpur
 > Systems • Backend • Open Source
+```
+
+</p>
 
 ---
 
 ## About Me
 
-A software engineer passionate about building scalable systems,
-backend architectures, developer tools, and impactful products.
+A software engineer passionate about building scalable systems, backend architectures, developer tools, and impactful products.
 
 Currently exploring:
+
 - System Design
 - High-performance C++
 - Backend Engineering
@@ -25,33 +28,41 @@ Currently exploring:
 
 ---
 
-## Technologies
+## 🛠 Technologies
 
-## Technologies
+### 👨‍💻 Languages
 
-### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js,java" />
 </p>
 
-### Backend & Web
+---
+
+### ⚙ Backend & Web
+
 <p>
   <img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb,html,css" />
 </p>
 
-### ML & Systems
+---
+
+### 🤖 ML & Systems
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=pytorch,docker,linux" />
 </p>
 
-### Tools
+---
+
+### 🔧 Tools
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
 </p>
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
 ### AlgoViz
 Interactive ML visualization platform for experimenting with machine learning models.
@@ -64,7 +75,7 @@ Parallel graph ranking system optimized using OpenMP.
 
 ---
 
-## Current Interests
+## 🎯 Current Interests
 
 - Scalable backend systems
 - Performance optimization
@@ -74,19 +85,23 @@ Parallel graph ranking system optimized using OpenMP.
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Insights
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanchalYadav12&theme=nightowl&hide_border=true" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ChanchalYadav12&show_icons=true&theme=nightowl&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChanchalYadav12&theme=nightowl&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChanchalYadav12&theme=nightowl&hide_border=true" />
 </p>
 
 ---
 
-## Connect
+## 🤝 Connect
 
 ```bash
 github   -> github.com/ChanchalYadav12
