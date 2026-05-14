@@ -9,7 +9,7 @@
 </p>
 
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=heyaa+digital+souls+⚡;welcome+to+my+dev+cave+🛠" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=heyaa+digital+souls+%E2%9A%A1;welcome+to+my+dev+cave+%F0%9F%9B%A0" />
 </h2>
 
 <p align="center">
@@ -30,6 +30,8 @@
 
 # 💻 inside the dev cave
 
+<div align="center">
+
 ### 👨‍💻 Languages
 
 <p>
@@ -44,7 +46,7 @@
   <code>Java</code>
 </p>
 
----
+<br>
 
 ### ⚙ Backend & Web
 
@@ -61,7 +63,7 @@
   <code>CSS</code>
 </p>
 
----
+<br>
 
 ### 🤖 ML & Systems
 
@@ -75,7 +77,7 @@
   <code>Linux</code>
 </p>
 
----
+<br>
 
 ### 🔧 Dev Tools
 
@@ -89,3 +91,5 @@
   <code>VS Code</code>
   <code>Google Cloud</code>
 </p>
+
+</div>
