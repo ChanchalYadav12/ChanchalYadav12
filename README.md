@@ -2,14 +2,14 @@
   <img src="https://raw.githubusercontent.com/ChanchalYadav12/ChanchalYadav12/main/git.gif" width="100%" />
 </div>
 
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=ChanchalYadav12&label=visitors&color=0e75b6&style=flat" />
+</div>
+
 <h1 align="center">Chanchal Yadav 👋</h1>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ChanchalYadav12&label=visitors&color=0e75b6&style=flat" />
-</p>
-
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=heyaa+digital+souls+%E2%9A%A1;welcome+to+my+dev+cave+%F0%9F%9B%A0" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=heyaa+digital+souls+⚡;welcome+to+my+dev+cave+🛠" />
 </h2>
 
 <p align="center">
@@ -34,51 +34,27 @@
 
 ### 👩‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=cpp,python,c,js,java&theme=dark" /><br>
-
-<div>
-  <code>C++</code>
-  <code>Python</code>
-  <code>C</code>
-  <code>JavaScript</code>
-  <code>Java</code>
-</div>
+`C++` `Python` `C` `JavaScript` `Java`
 
 ### ⚙️ Backend & Web  
 <img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb,html,css&theme=dark" /><br>
-
-<div>
-  <code>Flask</code>
-  <code>React</code>
-  <code>Node.js</code>
-  <code>MongoDB</code>
-  <code>HTML</code>
-  <code>CSS</code>
-</div>
+`Flask` `React` `Node.js` `MongoDB` `HTML` `CSS`
 
 ### 🤖 ML & Systems  
 <img src="https://skillicons.dev/icons?i=pytorch,docker,linux&theme=dark" /><br>
-
-<div>
-  <code>PyTorch</code>
-  <code>Docker</code>
-  <code>Linux</code>
-</div>
+`PyTorch` `Docker` `Linux`
 
 ### 🛠️ Dev Tools  
 <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark" /><br>
-
-<div>
-  <code>Git</code>
-  <code>GitHub</code>
-  <code>VS Code</code>
-  <code>Google Cloud</code>
-</div>
+`Git` `GitHub` `VS Code` `Google Cloud`
 
 </div>
+
+---
 
 ## 📈 commit dimensions
-
-- ⚡ Scalable Backend Systems  
+- 🔨 Fullstack Engineering — Mobile & Web
+- ⚙️ Scalable Backend Systems  
 - 🧠 System Design & Distributed Computing  
 - 🚀 Performance Optimization  
 - 🛠️ Developer Tools & Open Source  
@@ -86,7 +62,7 @@
 
 ---
 
-## 📊 GitHub Insights
+## 📊 github universe
 
 <div align="center">
 
