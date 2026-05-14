@@ -8,15 +8,13 @@
 
 <h1 align="center">Chanchal Yadav 👋</h1>
 
-<hr>
-
 <div align="center">
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=45&lines=heyaa+digital+souls+%E2%9A%A1;welcome+to+my+dev+cave+%F0%9F%9B%A0" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=30&duration=3000&pause=1000&color=0096C7&center=true&vCenter=true&width=700&height=45&lines=heyaa+digital+souls;welcome+to+my+dev+cave+%F0%9F%9B%A0" alt="Typing SVG" />
 </a>
 
-<br><br>
+<br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://linkedin.com/in/chanchal-s-yadav)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:chanchalyadav9022@email.com)
