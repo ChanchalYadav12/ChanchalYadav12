@@ -28,21 +28,21 @@
 
 <div align="center">
 
-### 👩‍💻 Languages  
+### 🧑‍💻 Languages  
 <img src="https://skillicons.dev/icons?i=cpp,python,c,js,java&theme=dark" /><br>
-`C++` `Python` `C` `JavaScript` `Java`
+`C++` · `Python` · `C` · `JavaScript` · `Java`
 
-### ⚙️ Backend & Web  
-<img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb,html,css&theme=dark" /><br>
-`Flask` `React` `Node.js` `MongoDB` `HTML` `CSS`
+### 📦 Frameworks & Libraries  
+<img src="https://skillicons.dev/icons?i=flask,react,nodejs,html,css,figma&theme=dark" /><br>
+`Flask` · `React` · `Node.js` · `HTML` · `CSS` · `Figma`
 
-### 🤖 ML & Systems  
-<img src="https://skillicons.dev/icons?i=pytorch,docker,linux&theme=dark" /><br>
-`PyTorch` `Docker` `Linux`
+### 🗄️ Databases & Infrastructure  
+<img src="https://skillicons.dev/icons?i=mongodb,docker,gcp,vercel&theme=dark" /><br>
+`MongoDB` · `Docker` · `Google Cloud` · `Vercel`
 
-### 🛠️ Dev Tools  
-<img src="https://skillicons.dev/icons?i=git,github,vscode,gcp&theme=dark" /><br>
-`Git` `GitHub` `VS Code` `Google Cloud`
+### 🔧 Dev Tools  
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&theme=dark" /><br>
+`Git` · `GitHub` · `VS Code` · `Linux`
 
 </div>
 
