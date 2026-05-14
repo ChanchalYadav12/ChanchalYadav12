@@ -1,9 +1,14 @@
-# Hi, I'm Chanchal Yadav 👋
+<div align="center">
+  <img src="https://raw.githubusercontent.com/ChanchalYadav12/ChanchalYadav12/main/git.gif" width="100%" />
+</div>
+
+<h1 align="center">Hi, I'm Chanchal Yadav 👋</h1>
+
+<p align="center">
 
 ```bash
 > Software Engineer @ IIT Jodhpur
 > Systems • Backend • Open Source
-```
 
 ---
 
@@ -22,14 +27,27 @@ Currently exploring:
 
 ## Technologies
 
-| Category | Technologies |
-|----------|--------------|
-| Languages | C++ • Python • JavaScript • C |
-| Backend | Flask • REST APIs • MongoDB |
-| Frontend | React.js • HTML • CSS |
-| ML & Vision | PyTorch • OpenCV • scikit-learn |
-| Tools | Git • Docker • Linux • VS Code |
-| Core CS | DSA • DBMS • OOP • OS |
+## Technologies
+
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,python,c,js" />
+</p>
+
+### Backend & Web
+<p>
+  <img src="https://skillicons.dev/icons?i=flask,react,nodejs,mongodb,html,css" />
+</p>
+
+### ML & Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv,docker,linux" />
+</p>
+
+### Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,gcp" />
+</p>
 
 ---
 
